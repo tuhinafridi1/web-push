@@ -16,7 +16,7 @@ p{
     color: orange;
 }
 .half-width{
-    width: 40%;
+    width: 25%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
@@ -46,7 +46,7 @@ section{
     background-position: right;
 }
 .single-experience{
-    box-shadow: 10px 10px 40px gray;
+   box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 80%;
     background-color: white;
@@ -56,17 +56,110 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+.img-size{
+    width: 343.54px;
+height: 213.23px;
+left: 148px;
+top: 1469px;
+
+}
+.text-color{
+    text-align: center;
+    color: rgb(111, 166, 218);
+    font-size: 48px;
+line-height: 48px;;
+
+}
 #full-stack{
     border-left: 7px solid;
+    border-right: 7px solid;
     border-image: linear-gradient(180deg, lightSalmon, tomato);
     border-image-slice: 1;
 }
 #baby-web{
     border-left: 7px solid;
+    border-right: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 
 }
+#baby-webb{
+    border-left: 7px solid;
+    border-right: 7px solid;
+    border-image: linear-gradient(180deg, rgb(230, 64, 147), rgb(34, 138, 235));
+    border-image-slice: 1;
+ }
+
+
+.Inquiry{
+    background-color: #fff;
+    padding: 50px 0px;
+    overflow: hidden;
+    
+}
+.inquiry_top img{
+    width: 60%;
+}
+.inquiry_top{
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    
+}
+.Inquiry_content{
+   position: absolute;
+   width: 80%;
+
+}
+.Inquiry_content h2 {
+        color: #fff;
+        font-size: 64px;
+        
+        display: inline-block;
+    }
+    
+
+
+.lol_l{
+    text-decoration: none;
+    color: #fff;
+    background-color: #F96D61;
+    padding: 20px 30px;
+    border-radius: 5px;
+    font-weight: 400;
+    float: right;
+    margin-top: 70px;
+    margin-right: 20px;
+}
+footer{
+    padding: 30px 0px;
+}
+.footer_top{
+    text-align: center;
+}
+.footer_top p{
+    color: #696871;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+.footer_top h3{
+    color: #363958;
+    font-size: 36px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+
+
+  
+  
+
+ 
+    
+
+
+
 
 footer p{
     text-align: center;
